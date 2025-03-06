@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "firstExtension",
+  "version": "1.0.0",
+  "icons": {
+    "32": "extension-icon.png"
+  }
+}
